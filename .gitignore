@@ -1,2 +1,7 @@
+## Scala
 *.class
 *.log
+
+## SBT
+target/
+project/target/
