@@ -1,4 +1,4 @@
-name := "pressdrill"
+name := "jfuguetest"
 
 version := "1.0"
 
